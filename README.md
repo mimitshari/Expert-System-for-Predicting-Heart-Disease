@@ -1,5 +1,7 @@
-❤️ Expert System for Predicting Heart Disease
+Expert System for Predicting Heart Disease
+
 📌 Project Overview
+
 
 This project is an Expert System designed to predict the likelihood of heart disease using Machine Learning (ML) and rule-based inference. The system combines a knowledge base, inference engine, and user interface to analyze patient health data and provide accurate predictions that support medical decision-making.
 
